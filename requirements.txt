@@ -1,0 +1,10 @@
+openai
+elevenlabs
+moviepy
+google-api-python-client
+google-auth-oauthlib
+schedule
+python-dotenv
+google-auth
+google-auth-httplib2
+requests
